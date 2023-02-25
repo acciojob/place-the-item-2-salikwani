@@ -1,2 +1,11 @@
-
+.holder {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.item {
+	padding: 20px;
+	background-color: green;
+}
 /* Your CSS Code here. */
